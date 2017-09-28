@@ -41,15 +41,15 @@ foreach ($_SERVER as $key => $value) {
 define('DB_NAME', 'mysqldatabase033');
 
 /** MySQL database username */
-define('DB_USER', 'sean');
-//define('DB_USER', 'sean@seal-demodb');
+//define('DB_USER', 'sean');
+define('DB_USER', 'sean@seal-demodb');
 
 /** MySQL database password */
 define('DB_PASSWORD', 'Password4demo');
 
 /** MySQL hostname */
-define('DB_HOST', '40.71.193.88');
-//define('DB_HOST', 'seal-demodb.mysql.database.azure.com');
+//define('DB_HOST', '40.71.193.88');
+define('DB_HOST', 'seal-demodb.mysql.database.azure.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
