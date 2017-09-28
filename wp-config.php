@@ -47,6 +47,7 @@ define('DB_USER', 'sean@seal-demodb');
 /** MySQL database password */
 define('DB_PASSWORD', 'Password4demo');
 
+
 /** MySQL hostname */
 //define('DB_HOST', '40.71.193.88');
 define('DB_HOST', 'seal-demodb.mysql.database.azure.com');
